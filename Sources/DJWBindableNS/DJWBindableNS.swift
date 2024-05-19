@@ -2,5 +2,5 @@
 //    var text = "Hello, World!"
 //}
 
-public struct Bindable{}
+public struct DBindable{}
 
